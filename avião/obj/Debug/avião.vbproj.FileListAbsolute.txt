@@ -1,0 +1,17 @@
+C:\Users\120815\source\repos\avião\avião\bin\Debug\avião.exe.config
+C:\Users\120815\source\repos\avião\avião\bin\Debug\avião.exe
+C:\Users\120815\source\repos\avião\avião\bin\Debug\avião.pdb
+C:\Users\120815\source\repos\avião\avião\bin\Debug\avião.xml
+C:\Users\120815\source\repos\avião\avião\obj\Debug\avião.vbprojAssemblyReference.cache
+C:\Users\120815\source\repos\avião\avião\obj\Debug\avião.Form1.resources
+C:\Users\120815\source\repos\avião\avião\obj\Debug\avião.Resources.resources
+C:\Users\120815\source\repos\avião\avião\obj\Debug\avião.vbproj.GenerateResource.cache
+C:\Users\120815\source\repos\avião\avião\obj\Debug\avião.vbproj.CoreCompileInputs.cache
+C:\Users\120815\source\repos\avião\avião\obj\Debug\avião.exe
+C:\Users\120815\source\repos\avião\avião\obj\Debug\avião.xml
+C:\Users\120815\source\repos\avião\avião\obj\Debug\avião.pdb
+C:\Users\andre\Downloads\trabalhos\trabalhos\Aviao\avião\avião\obj\Debug\avião.vbproj.AssemblyReference.cache
+C:\Users\andre\Downloads\trabalhos\trabalhos\Aviao\avião\avião\obj\Debug\avião.vbproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Downloads\trabalhos\trabalhos\Aviao\avião\avião\obj\Debug\avião.exe
+C:\Users\andre\Downloads\trabalhos\trabalhos\Aviao\avião\avião\obj\Debug\avião.xml
+C:\Users\andre\Downloads\trabalhos\trabalhos\Aviao\avião\avião\obj\Debug\avião.pdb
